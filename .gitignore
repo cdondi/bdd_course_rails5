@@ -19,3 +19,25 @@
 
 # Ignore Byebug command history file.
 .byebug_history
+
+.idea/blog_app.iml
+
+.idea/blog_app.iml
+
+.idea/blog_app.iml
+
+.idea/runConfigurations/Development__blog_app.xml
+
+.idea/blog_app.iml
+
+.idea/runConfigurations/Production__blog_app.xml
+
+.idea/runConfigurations/spec__blog_app.xml
+
+.idea/runConfigurations/test__blog_app.xml
+
+.idea/workspace.xml
+
+.idea/workspace.xml
+
+.idea/blog_app.iml
