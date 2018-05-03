@@ -22,10 +22,6 @@
 
 .idea/blog_app.iml
 
-.idea/blog_app.iml
-
-.idea/blog_app.iml
-
 .idea/runConfigurations/Development__blog_app.xml
 
 .idea/blog_app.iml
@@ -38,6 +34,6 @@
 
 .idea/workspace.xml
 
-.idea/workspace.xml
-
 .idea/blog_app.iml
+
+.idea/*
